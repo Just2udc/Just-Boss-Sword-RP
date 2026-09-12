@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "A Juju's Datapack that just add a OP Cosmic Sword",
+        "pack_format": 57,
+        "supported_formats": [57,99]
+    }
+}
