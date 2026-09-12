@@ -1,7 +1,7 @@
 {
     "pack": {
-        "description": "A Juju's Datapack that just add a OP Cosmic Sword",
-        "pack_format": 57,
-        "supported_formats": [57,99]
+        "description": ["The resource pack for Just2's datapack ",{"text":"Just Boss Sword", "color": "#813d9c"}],
+        "min_format": 69,
+        "max_format": 88
     }
 }
