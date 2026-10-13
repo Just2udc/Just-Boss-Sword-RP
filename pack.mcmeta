@@ -2,6 +2,6 @@
     "pack": {
         "description": ["The resource pack for Just2's datapack ",{"text":"Just Boss Sword", "color": "#813d9c"}],
         "min_format": 69,
-        "max_format": 88
+        "max_format": 97.1
     }
 }
